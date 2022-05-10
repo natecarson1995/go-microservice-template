@@ -1,1 +1,5 @@
 package gomicroservicetemplate
+
+func main() {
+
+}
