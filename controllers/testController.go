@@ -7,5 +7,5 @@ import (
 )
 
 func TestMethod() {
-	fmt.Printf(services.GetTestData())
+	fmt.Printf("Foo " + services.GetTestData())
 }

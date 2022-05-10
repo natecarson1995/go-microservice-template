@@ -5,5 +5,5 @@ import (
 )
 
 func GetTestData() string {
-	return repositories.GetTestData()
+	return "Bar " + repositories.GetTestData()
 }
